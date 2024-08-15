@@ -1,0 +1,162 @@
+2024-08-14 10:59:09,960 - 半只程序员>>> - INFO - 半只程序员>>>
+2024-08-14 10:59:09,982 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 对比完成，相同数据保存到 result.xlsx文件中
+2024-08-14 11:00:12,771 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 对比完成，相同数据保存到 result.xlsx文件中
+2024-08-14 11:01:45,295 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 对比完成，相同数据保存到 result.xlsx文件中
+2024-08-14 11:02:38,476 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 对比完成，相同数据保存到 result.xlsx文件中
+2024-08-14 11:04:26,380 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 对比完成，相同数据保存到 result.xlsx文件中
+2024-08-14 11:06:39,047 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 对比完成，相同数据保存到 result.xlsx文件中
+2024-08-14 11:07:11,325 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 对比完成，相同数据保存到 result.xlsx文件中
+2024-08-14 11:07:28,199 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 对比完成，相同数据保存到 result.xlsx文件中
+2024-08-14 11:08:04,038 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 对比完成，相同数据保存到 result.xlsx文件中
+2024-08-14 11:09:15,035 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 对比完成，相同数据保存到 result.xlsx文件中
+2024-08-14 11:09:57,550 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 对比完成，相同数据保存到 result.xlsx文件中
+2024-08-14 11:13:01,134 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 对比完成，相同数据保存到 result.xlsx文件中
+2024-08-14 11:14:05,523 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 对比完成，相同数据保存到 result.xlsx文件中
+2024-08-14 11:20:58,245 - 半只程序员>>> - DEBUG - 开始执行函数: example_function
+2024-08-14 11:20:58,246 - 半只程序员>>> - INFO - example_function 被调用 with args: 3, 5
+2024-08-14 11:20:58,246 - 半只程序员>>> - DEBUG - 完成执行函数: example_function
+2024-08-14 11:22:16,587 - 半只程序员>>> - INFO - example_function 被调用 with args: 3, 5
+2024-08-14 11:26:01,851 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 对比完成，相同数据保存到 result.xlsx文件中
+2024-08-14 11:29:33,196 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 对比完成，相同数据保存到 result.xlsx文件中
+2024-08-14 11:34:13,531 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 对比完成，相同数据保存到 result.xlsx文件中
+2024-08-14 11:39:51,838 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 11:48:41,143 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 13:53:34,035 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 13:54:08,200 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 13:56:04,811 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 13:57:49,266 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 14:04:35,122 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 14:46:42,888 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 14:46:58,554 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 14:51:45,462 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 14:54:03,323 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 14:56:53,429 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 15:00:05,672 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 15:00:18,209 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 15:00:45,020 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 15:04:20,647 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 15:05:36,811 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 15:06:55,903 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 15:07:41,860 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 15:10:54,059 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 15:10:54,229 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-14 15:11:04,168 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 15:11:51,183 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 15:15:14,224 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 15:18:30,678 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 15:18:53,291 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 15:21:10,098 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 15:24:31,417 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 15:41:49,059 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done, same save to result.xlsx
+2024-08-14 15:44:18,192 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 15:44:36,379 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 15:45:27,563 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 15:46:25,782 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 15:48:56,070 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 15:50:06,583 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 15:53:36,787 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 15:54:00,107 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:23:50,669 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:24:38,539 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:24:58,708 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:27:19,783 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:27:53,036 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:28:23,209 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:29:04,247 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:29:27,503 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:30:25,358 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:30:54,489 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:31:13,784 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:31:24,350 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:35:50,976 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:37:37,042 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:38:14,916 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:39:15,669 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:40:38,824 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:41:12,854 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:48:49,005 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 16:49:12,129 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same save to result.xlsx
+2024-08-14 17:15:21,161 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same data save to result.xlsxfile
+2024-08-14 21:26:57,765 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same data save to result.xlsxfile
+2024-08-14 21:28:38,674 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same data save to result.xlsxfile
+2024-08-14 21:31:18,507 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same data save to result.xlsxfile
+2024-08-14 21:31:57,643 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same data save to result.xlsxfile
+2024-08-14 21:38:31,286 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same data save to result.xlsxfile
+2024-08-14 21:38:31,443 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-14 21:38:40,144 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same data save to result.xlsxfile
+2024-08-14 21:42:49,677 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same data save to result.xlsxfile
+2024-08-14 21:42:49,839 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-14 21:43:45,633 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 compared done,same data save to result.xlsxfile
+2024-08-14 22:01:19,173 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 data is not same about all fields
+2024-08-15 09:36:39,843 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 data is not same about all fields
+2024-08-15 09:37:06,985 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 data is not same about all fields
+2024-08-15 09:38:08,608 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 data is not same about all fields
+2024-08-15 09:38:43,250 - 半只程序员>>> - DEBUG - af1c9b53652bef321057dc5e8c89d77f 和 af1c9b53652bef321057dc5e8c89d77f备份 data is not same about all fields
+2024-08-15 09:44:15,786 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 data is same about all fields
+2024-08-15 09:45:05,764 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 09:47:07,384 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 09:47:07,561 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 09:48:25,119 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 09:48:25,120 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 09:50:47,254 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 09:50:47,254 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 09:51:21,713 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 09:51:21,713 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 09:51:47,209 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 09:52:35,924 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 09:53:40,059 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 09:53:48,566 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 09:53:48,566 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 09:54:49,632 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 09:54:49,632 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 09:56:33,579 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 09:56:33,582 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 09:56:58,008 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 09:56:58,010 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:01:35,298 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 10:01:50,815 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 10:01:53,892 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 10:02:00,077 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:02:00,077 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 10:02:39,355 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:03:07,947 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:03:44,787 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 10:03:59,406 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:03:59,407 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 10:04:11,035 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:04:11,035 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 10:05:08,579 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:05:08,579 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 10:08:19,332 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:09:26,066 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 10:09:54,888 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:16:37,789 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:17:33,283 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:17:40,951 - 半只程序员>>> - DEBUG - 01a35fe046c530226b78f5de48eb3a48 和 01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 10:23:08,262 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:23:17,620 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 10:37:20,916 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:37:41,192 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:37:53,564 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 10:38:15,760 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:39:14,937 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:39:48,274 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:40:06,026 - 半只程序员>>> - DEBUG - file is open,please close it first
+2024-08-15 10:40:27,751 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to ./result/result.xlsxfile
+2024-08-15 10:41:38,746 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to ./result/result.xlsxfile
+2024-08-15 10:41:53,058 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to ./index/result.xlsxfile
+2024-08-15 10:42:07,525 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to ./index/result.xlsxfile
+2024-08-15 10:44:18,875 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to ./index/result.xlsxfile
+2024-08-15 10:45:04,636 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to ./compare_result/result.xlsxfile
+2024-08-15 10:51:03,464 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result.xlsxfile
+2024-08-15 10:51:24,606 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result/result.xlsxfile
+2024-08-15 10:52:04,719 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to compare_result/result.xlsxfile
+2024-08-15 11:00:43,303 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to compare_result/result.xlsxfile
+2024-08-15 14:58:11,088 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to compare_result/result.xlsxfile
+2024-08-15 14:59:34,714 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to compare_result/result.xlsxfile
+2024-08-15 15:30:18,280 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result/result.xlsxfile
+2024-08-15 15:31:55,263 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to result/result.xlsxfile
+2024-08-15 15:34:02,353 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to compare_result/result.xlsxfile
+2024-08-15 15:34:38,118 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to compare_result/result.xlsxfile
+2024-08-15 15:36:41,182 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48 和 ./files/01a35fe046c530226b78f5de48eb3a48备份 compared done,same data save to compare_result/result.xlsxfile
+2024-08-15 15:37:39,173 - 半只程序员>>> - DEBUG - ./files/01a35fe046c530226b78f5de48eb3a48备份 和 ./files/01a35fe046c530226b78f5de48eb3a48 compared done,same data save to compare_result/result.xlsxfile
